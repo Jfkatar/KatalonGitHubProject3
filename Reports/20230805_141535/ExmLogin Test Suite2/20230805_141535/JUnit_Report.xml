@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="ExmLogin Test Suite2" time="31.046" tests="1" failures="0" errors="0">
+   <testsuite name="ExmLogin Test Suite2" tests="1" failures="0" errors="0" time="31.046" skipped="0" timestamp="2023-08-05 14:15:39" hostname="shresthar1 - SHRESTHALTW10.cns-inc.com" id="Test Suites/ExmLogin Test Suite2">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\shresthar1\\git\\KatalonGitHubProject3\\Reports\\20230805_141535\\ExmLogin Test Suite2\\20230805_141535"/>
+         <property name="logFiles" value="C:\\Users\\shresthar1\\git\\KatalonGitHubProject3\\Reports\\20230805_141535\\ExmLogin Test Suite2\\20230805_141535\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="shresthar1 - SHRESTHALTW10.cns-inc.com"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.6.5.208"/>
+         <property name="browser" value="Chrome 115.0.0.0"/>
+         <property name="hostAddress" value="192.168.1.128"/>
+         <property name="sessionId" value="7489f83c2bf82ccc15958f296c99448b"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/ExmLogin Test Case2" time="30.627" classname="Test Cases/ExmLogin Test Case2" status="PASSED">
+         <system-out><![CDATA[2023-08-05 14:15:39 - [TEST_CASE][PASSED] - Test Cases/ExmLogin Test Case2: Test Cases/ExmLogin Test Case2
+
+2023-08-05 14:15:40 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-08-05 14:15:40 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-08-05 14:15:40 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-08-05 14:15:43 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-08-05 14:15:43 - [TEST_STEP][PASSED] - navigateToUrl("https://example.testproject.io/web/"): Navigate to 'https://example.testproject.io/web/' successfully
+
+2023-08-05 14:16:06 - [MESSAGE][PASSED] - Navigate to 'https://example.testproject.io/web/' successfully
+
+2023-08-05 14:16:06 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Exm Login Object2/Page_TestProject Demo/input_Full Name_name"), "Test5"): Text 'Test5' is set on object 'Object Repository/Exm Login Object2/Page_TestProject Demo/input_Full Name_name'
+
+2023-08-05 14:16:06 - [MESSAGE][PASSED] - Text 'Test5' is set on object 'Object Repository/Exm Login Object2/Page_TestProject Demo/input_Full Name_name'
+
+2023-08-05 14:16:06 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Exm Login Object2/Page_TestProject Demo/input_Password_password"), "iGDxf8hSRT4="): Text ****** has been set on object 'Object Repository/Exm Login Object2/Page_TestProject Demo/input_Password_password'
+
+2023-08-05 14:16:07 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Exm Login Object2/Page_TestProject Demo/input_Password_password'
+
+2023-08-05 14:16:07 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Exm Login Object2/Page_TestProject Demo/button_Login")): Object: 'Object Repository/Exm Login Object2/Page_TestProject Demo/button_Login' is clicked on
+
+2023-08-05 14:16:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Exm Login Object2/Page_TestProject Demo/button_Login' is clicked on
+
+2023-08-05 14:16:07 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Exm Login Object2/Page_TestProject Demo/button_Logout")): Object: 'Object Repository/Exm Login Object2/Page_TestProject Demo/button_Logout' is clicked on
+
+2023-08-05 14:16:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Exm Login Object2/Page_TestProject Demo/button_Logout' is clicked on
+
+2023-08-05 14:16:09 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-08-05 14:16:10 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-08-05 14:15:39 - [TEST_SUITE][PASSED] - ExmLogin Test Suite2: Test Cases/ExmLogin Test Case2]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

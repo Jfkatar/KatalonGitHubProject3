@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TrainSec Test Suite3,Chrome 115.0.0.0,,,2023-08-05 14:20:54,2023-08-05 14:21:22,27.585s,PASSED
+,,,,,,,
+Test Cases/TrainSec Test Case3,Chrome 115.0.0.0,,,2023-08-05 14:20:55,2023-08-05 14:21:22,27.194s,PASSED
+"openBrowser("""")",Chrome 115.0.0.0,,,2023-08-05 14:20:55,2023-08-05 14:20:59,3.522s,PASSED
+"navigateToUrl(""https://www.dhs.gov/"")",Chrome 115.0.0.0,,,2023-08-05 14:20:59,2023-08-05 14:21:21,22.215s,PASSED
+closeBrowser(),Chrome 115.0.0.0,,,2023-08-05 14:21:21,2023-08-05 14:21:22,0.916s,PASSED

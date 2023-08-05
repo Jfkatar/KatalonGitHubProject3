@@ -1,0 +1,12 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Aimweb Test Suite5,Chrome 115.0.0.0,,,2023-08-05 14:29:01,2023-08-05 14:29:34,33.190s,PASSED
+,,,,,,,
+Test Cases/Aimweb Test Case5,Chrome 115.0.0.0,,,2023-08-05 14:29:01,2023-08-05 14:29:34,32.643s,PASSED
+"openBrowser("""")",Chrome 115.0.0.0,,,2023-08-05 14:29:02,2023-08-05 14:29:06,4.271s,PASSED
+"navigateToUrl(""https://webaim.org/"")",Chrome 115.0.0.0,,,2023-08-05 14:29:06,2023-08-05 14:29:28,21.836s,PASSED
+"click(findTestObject(""Object Repository/Aimweb Object5/Page_WebAIM Web Accessibility In Mind/a_Services""))",Chrome 115.0.0.0,,,2023-08-05 14:29:28,2023-08-05 14:29:29,1.107s,PASSED
+"click(findTestObject(""Object Repository/Aimweb Object5/Page_WebAIM WebAIM Services/a_Home""))",Chrome 115.0.0.0,,,2023-08-05 14:29:29,2023-08-05 14:29:30,1.023s,PASSED
+"click(findTestObject(""Object Repository/Aimweb Object5/Page_WebAIM Web Accessibility In Mind/a_Articles""))",Chrome 115.0.0.0,,,2023-08-05 14:29:30,2023-08-05 14:29:31,0.951s,PASSED
+"click(findTestObject(""Object Repository/Aimweb Object5/Page_WebAIM Articles/a_Resources""))",Chrome 115.0.0.0,,,2023-08-05 14:29:31,2023-08-05 14:29:32,0.947s,PASSED
+"click(findTestObject(""Object Repository/Aimweb Object5/Page_WebAIM Resources/a_Introduction to Web Accessibility""))",Chrome 115.0.0.0,,,2023-08-05 14:29:32,2023-08-05 14:29:33,0.970s,PASSED
+closeBrowser(),Chrome 115.0.0.0,,,2023-08-05 14:29:33,2023-08-05 14:29:34,0.944s,PASSED

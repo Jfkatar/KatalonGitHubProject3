@@ -1,0 +1,6 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+GMabt Test Suite1,Chrome 115.0.0.0,,,2023-08-05 14:07:59,2023-08-05 14:08:28,28.859s,PASSED
+,,,,,,,
+Test Cases/GMabt Test Case1,Chrome 115.0.0.0,,,2023-08-05 14:07:59,2023-08-05 14:08:28,28.389s,PASSED
+"openBrowser("""")",Chrome 115.0.0.0,,,2023-08-05 14:08:00,2023-08-05 14:08:05,4.696s,PASSED
+"navigateToUrl(""https://www.google.com/gmail/about/"")",Chrome 115.0.0.0,,,2023-08-05 14:08:05,2023-08-05 14:08:28,23.039s,PASSED

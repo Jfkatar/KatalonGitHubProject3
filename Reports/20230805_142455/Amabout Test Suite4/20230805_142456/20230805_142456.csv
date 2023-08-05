@@ -1,0 +1,10 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Amabout Test Suite4,Chrome 115.0.0.0,,,2023-08-05 14:25:02,2023-08-05 14:25:42,40.050s,PASSED
+,,,,,,,
+Test Cases/Amabout Test Case4,Chrome 115.0.0.0,,,2023-08-05 14:25:02,2023-08-05 14:25:42,39.655s,PASSED
+"openBrowser("""")",Chrome 115.0.0.0,,,2023-08-05 14:25:02,2023-08-05 14:25:06,3.404s,PASSED
+"navigateToUrl(""https://www.aboutamazon.com/"")",Chrome 115.0.0.0,,,2023-08-05 14:25:06,2023-08-05 14:25:37,31.142s,PASSED
+"click(findTestObject(""Object Repository/Amabout Object4/Page_About Amazon/svg_Amazon Privacy Policy_burger-menu""))",Chrome 115.0.0.0,,,2023-08-05 14:25:37,2023-08-05 14:25:38,0.656s,PASSED
+"click(findTestObject(""Object Repository/Amabout Object4/Page_About Amazon/a_Subscribe""))",Chrome 115.0.0.0,,,2023-08-05 14:25:38,2023-08-05 14:25:38,0.674s,PASSED
+"click(findTestObject(""Object Repository/Amabout Object4/Page_About Amazon/svg""))",Chrome 115.0.0.0,,,2023-08-05 14:25:38,2023-08-05 14:25:41,2.246s,PASSED
+closeBrowser(),Chrome 115.0.0.0,,,2023-08-05 14:25:41,2023-08-05 14:25:42,0.972s,PASSED

@@ -1,0 +1,11 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+ExmLogin Test Suite2,Chrome 115.0.0.0,,,2023-08-05 14:15:39,2023-08-05 14:16:10,31.046s,PASSED
+,,,,,,,
+Test Cases/ExmLogin Test Case2,Chrome 115.0.0.0,,,2023-08-05 14:15:39,2023-08-05 14:16:10,30.627s,PASSED
+"openBrowser("""")",Chrome 115.0.0.0,,,2023-08-05 14:15:40,2023-08-05 14:15:43,3.875s,PASSED
+"navigateToUrl(""https://example.testproject.io/web/"")",Chrome 115.0.0.0,,,2023-08-05 14:15:43,2023-08-05 14:16:06,22.085s,PASSED
+"setText(findTestObject(""Object Repository/Exm Login Object2/Page_TestProject Demo/input_Full Name_name""), ""Test5"")",Chrome 115.0.0.0,,,2023-08-05 14:16:06,2023-08-05 14:16:06,0.841s,PASSED
+"setEncryptedText(findTestObject(""Object Repository/Exm Login Object2/Page_TestProject Demo/input_Password_password""), ""iGDxf8hSRT4="")",Chrome 115.0.0.0,,,2023-08-05 14:16:06,2023-08-05 14:16:07,0.555s,PASSED
+"click(findTestObject(""Object Repository/Exm Login Object2/Page_TestProject Demo/button_Login""))",Chrome 115.0.0.0,,,2023-08-05 14:16:07,2023-08-05 14:16:07,0.570s,PASSED
+"click(findTestObject(""Object Repository/Exm Login Object2/Page_TestProject Demo/button_Logout""))",Chrome 115.0.0.0,,,2023-08-05 14:16:07,2023-08-05 14:16:09,1.177s,PASSED
+closeBrowser(),Chrome 115.0.0.0,,,2023-08-05 14:16:09,2023-08-05 14:16:10,0.968s,PASSED
